@@ -17,4 +17,7 @@ private void m4() {
 	System.out.println("m4");
 
 }
+public void m5() {
+	System.out.println("m5");
+}
 }
