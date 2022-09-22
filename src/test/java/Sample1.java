@@ -20,4 +20,15 @@ private void m4() {
 public void m5() {
 	System.out.println("m5");
 }
+private void m6() {
+	System.out.println("m6");
+
+}
+private void m7() {
+	System.out.println("m47");
+
+}
+public void m8() {
+	System.out.println("m8");
+}
 }
